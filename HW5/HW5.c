@@ -416,6 +416,7 @@ void Prefix(char String[], Stack* Stack, Queue* Queue)
 
 int main()
 {
+
 	setlocale(LC_ALL, "Rus");
 
 #pragma region Task_1
